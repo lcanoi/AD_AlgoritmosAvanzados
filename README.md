@@ -6,6 +6,7 @@ Act 1
 - Algorítmo de Búsqueda KMP
 - Algorítmo de Manacher para Longest Palindromic Substring
 - Algorítmo de Longest Common Substring
+
 Act 2
 - Algorítmo de Floyd Warshall para Grafo Óptimo
 - Algoritmo del Travelling Salesman
